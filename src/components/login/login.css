@@ -1,0 +1,7 @@
+input:valid +div{
+    display: none;
+}
+input:invalid +div{
+    display: block;
+    color: red;
+}
